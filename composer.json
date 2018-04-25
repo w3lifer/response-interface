@@ -5,9 +5,6 @@
     "interface"
   ],
   "license": "MIT",
-  "require": {
-    "yiisoft/yii2": "^2"
-  },
   "authors": [
     {
       "name": "Roman Grinyov",
